@@ -1,5 +1,6 @@
 
-from logging import log
+from logging import Logger
 
+logger = Logger(__name__)  # Initialize a logger instance
 
-log.info("welcom to our custom log")
+logger.info("Welcome to our custom log")  # Log the message
