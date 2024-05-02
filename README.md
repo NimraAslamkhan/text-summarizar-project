@@ -21,7 +21,7 @@ Gather a diverse dataset for training the summarization model and tokenize the t
 ### How to run?
 ### STEPS:
 Clone the repository
-https://github.com/NimraAslamkhan/MLPROJECT-student-performance-prediction
+https://github.com/NimraAslamkhan/text-summarizar-project
 
 ### STEP 01- Create a conda environment after opening the repository
 conda create -n summary python=3.12.1 -y
